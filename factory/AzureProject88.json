@@ -1,0 +1,15 @@
+{
+	"name": "AzureProject88",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indonesiacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e14abb08-1296-4670-b158-fd483dfc821c",
+		"tenantId": "b425fd34-3c6f-4ee8-935c-46b14babc0e5"
+	}
+}
